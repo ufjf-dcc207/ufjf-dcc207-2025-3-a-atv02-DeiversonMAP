@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/ufjf-dcc207-2025-3-a-atv01-DeiversonMAP/ufjf-dcc207-2025-3-a-atv02-DeiversonMAP",
+  base: "/ufjf-dcc207-2025-3-a-atv01-DeiversonMAP",
   plugins: [react()],
 })
