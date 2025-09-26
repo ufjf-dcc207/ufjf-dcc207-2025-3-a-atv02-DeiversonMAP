@@ -1,5 +1,6 @@
 .disciplina {
     padding: 1em;
+    margin: 0 10em;
     border: 1px solid lightgrey;
     border-radius: 0.5em;
     font-family: sans-serif;
