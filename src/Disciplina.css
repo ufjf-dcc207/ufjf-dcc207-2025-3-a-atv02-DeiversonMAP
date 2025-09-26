@@ -1,11 +1,15 @@
 .disciplina {
-    display: flex;
+    padding: 1em;
+    border: 1px solid lightgrey;
+    border-radius: 0.5em;
+    font-family: sans-serif;
+    font-size: 12px;
     gap: 0.2em;
+    display: grid;
+    grid-template-columns: 1fr auto ;
+
 
 }
-
-
-.disciplina > div {
-    border: 1px solid lightgrey;
-    padding: 0.1em;
+.disciplina h1 {
+    color: brown;
 }
